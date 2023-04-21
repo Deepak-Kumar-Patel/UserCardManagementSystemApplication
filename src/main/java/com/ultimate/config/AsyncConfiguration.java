@@ -23,6 +23,8 @@ public class AsyncConfiguration implements AsyncConfigurer {
 
     private final JHipsterProperties jHipsterProperties;
 
+    private final Long abc=0l;
+
     public AsyncConfiguration(JHipsterProperties jHipsterProperties) {
         this.jHipsterProperties = jHipsterProperties;
     }
