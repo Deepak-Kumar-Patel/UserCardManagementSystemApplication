@@ -9,8 +9,7 @@ public final class Constants {
     public static final String LOGIN_REGEX = "^[_'.@A-Za-z0-9-]*$";
 
     public static final String SYSTEM_ACCOUNT = "system";
-    public static final String SYSTEM_ACCOUNT_TEST = "system_test_111";
-    public static final String SYSTEM_ACCOUNT_TEST_test = "added new line";
+    public static final String SYSTEM_ACCOUNT_TEST = "system_test_222";
     public static final String ANONYMOUS_USER = "anonymoususer";
     public static final String DEFAULT_LANGUAGE = "en";
 
